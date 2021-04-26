@@ -1,5 +1,4 @@
 # GraphADT
-Undirected graph, using an adjacent list structure.
-Very simple implementation, contains basic methods.
-Might improve in the future the data structures used to represent most of the stuff.
-For example instaed of using array lists, I could use LinkedLists etc.
+This repository contains code for an undirected graph using an adjacent list structure.
+It is a straightforward implementation that contains basic methods. You most certainly have to add much more on your own if you plan to use this code.
+I might improve the data structures used.
